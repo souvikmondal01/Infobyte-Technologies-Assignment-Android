@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.InfobyteTechnologies" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/orange_500</item>
+        <item name="colorPrimaryDark">@color/orange_500</item>
+        <item name="colorAccent">@color/blue</item>
+    </style>
+
+    <style name="Theme.InfobyteTechnologies" parent="Base.Theme.InfobyteTechnologies" />
+
+</resources>
